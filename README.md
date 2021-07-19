@@ -1,5 +1,5 @@
 ## Welcome to Fruit gangs website
-<img src="https://media.discordapp.net/attachments/866766426362740767/866782003419414568/Untitled.jpg" height="200"/>
+<img src="https://media.discordapp.net/attachments/866766426362740767/866782003419414568/Untitled.jpg" height="500"/>
 
 you can find all of our discord user names and servers
 
