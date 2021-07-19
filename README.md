@@ -6,7 +6,7 @@ you can find all of our discord user names and servers
 our discord server is <a href="https://discord.gg/XUKTCrkA"><button>Fruit gang</button></a>
 
 
-#Rules
+# Rules
 |1.Be nice
 |2.No racism 
 |3.Have fun
