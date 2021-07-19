@@ -17,4 +17,5 @@ our discord server is <a href="https://discord.gg/XUKTCrkA"><button>Fruit gang</
 
 # Members in fruit gang
 --------------------------------------------------
-llama-like thing#2204  | 一方#6969 |  YAYEET#3747 |  Vggi#5693
+llama-like thing#2204 aka.Orange  | 一方#6969 aka.Blueberry |  YAYEET#3747 aka.lime |  Vggi#5693 aka.cherry
+
