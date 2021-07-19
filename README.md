@@ -6,9 +6,9 @@ our discord server is <a href="https://discord.gg/XUKTCrkA"><button>Fruit gang</
 
 
 #Rules
-1.Be nice
-2.No racism 
-3.Have fun
+#1.Be nice
+#2.No racism 
+#3.Have fun
 
 
 
