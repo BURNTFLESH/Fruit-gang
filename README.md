@@ -1,5 +1,5 @@
 ## Welcome to Fruit gangs website
-<img src=”(https://media.discordapp.net/attachments/866766426362740767/866782003419414568/Untitled.jpg)”>
+<img src="https://media.discordapp.net/attachments/815728560454893589/863093075889881108/com.AnotherAxiom.GorillaTag-20210709-120843.jpg?width=636&height=636" height="200"/>
 you can find all of our discord user names and servers
 
 our discord server is <a href="https://discord.gg/XUKTCrkA"><button>Fruit gang</button></a>
